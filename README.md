@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-and then execute the following command to run the main app:
+and then execute the following command to run the app:
 
 ### `node app.js`
 
