@@ -1,5 +1,5 @@
 # DrinKit
-DrinKit is an app that simulates a drink dispenser. This is the backend APIs of the app.
+DrinKit is an app that simulates a drink dispenser. This is the backend of the app.
 
 ## Requirements
 * Node.js with npm
